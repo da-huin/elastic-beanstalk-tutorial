@@ -20,7 +20,7 @@
 ---
 
 <p align="center"> 
-    <br> This document is refering to AWS Elastic Beanstalk getting started.
+    <br> This document is referring to AWS Elastic Beanstalk getting started.
 
 </p>
 
